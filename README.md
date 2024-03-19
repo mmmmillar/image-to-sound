@@ -1,0 +1,2 @@
+- install Rust and Just
+- `just run`
